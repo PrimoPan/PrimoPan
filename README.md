@@ -46,7 +46,7 @@ Building interactive systems that are **readable**, **repeatable**, and **shippa
 
 ## Contact
 - GitHub: Issues / Discussions on relevant repos
-- Website: <your-link>
-- Email: <your-email>
+- Website: https://primopan.github.io/about
+- Email: dpan750@connect.hkust-gz.edu.cn
 
 <!-- Optional: 如果你觉得还想更短，把 Contact 两行也删了都行 -->
