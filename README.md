@@ -9,7 +9,7 @@
 HK/CN · HKUST  
 Building interactive systems that are **readable**, **repeatable**, and **shippable**.
 
-**Stack:** TypeScript / Node.js / React / React Native · UE5 (C++/Blueprint)
+**Stack:** TypeScript / Node.js / React / React Native/ Lynx · UE5 (C++/Blueprint)
 
 ---
 
