@@ -43,13 +43,6 @@ Building interactive systems that are **readable**, **repeatable**, and **shippa
 - Email: dpan750@connect.hkust-gz.edu.cn
 
 
-<details>
-  <summary><b>🏆 Trophies</b> (click to expand)</summary>
-  <br/>
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=PrimoPan&theme=onedark&no-frame=true&row=1&column=7"
-    alt="GitHub Profile Trophy" />
-</details>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=PrimoPan&style=flat-square" alt="profile views" />
