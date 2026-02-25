@@ -15,11 +15,7 @@ Building interactive systems that are **readable**, **repeatable**, and **shippa
 
 ## Live GitHub stats (public)
 
-<p align="left">
-  <img
-    src="https://raw.githubusercontent.com/PrimoPan/PrimoPan/output/snake.svg"
-    alt="Contribution Snake" />
-</p>
+
 
 <!-- Streak -->
 <p align="left">
@@ -38,19 +34,22 @@ Building interactive systems that are **readable**, **repeatable**, and **shippa
     alt="GitHub Activity Graph" />
 </p>
 
-<details>
-  <summary><b>📊 GitHub Metrics</b> (click to expand)</summary>
-  <br/>
-  <img
-    src="https://raw.githubusercontent.com/PrimoPan/PrimoPan/main/assets/metrics.svg"
-    alt="GitHub Metrics" />
-</details>
+
 ---
 
 ## Contact
 - GitHub: Issues / Discussions on relevant repos
 - Website: https://primopan.github.io/about
 - Email: dpan750@connect.hkust-gz.edu.cn
+
+
+<details>
+  <summary><b>🏆 Trophies</b> (click to expand)</summary>
+  <br/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=PrimoPan&theme=onedark&no-frame=true&row=1&column=7"
+    alt="GitHub Profile Trophy" />
+</details>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=PrimoPan&style=flat-square" alt="profile views" />
