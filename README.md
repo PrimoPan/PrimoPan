@@ -42,7 +42,13 @@ Building interactive systems that are **readable**, **repeatable**, and **shippa
     alt="GitHub Activity Graph" />
 </p>
 
-
+<details>
+  <summary><b>📊 GitHub Metrics</b> (click to expand)</summary>
+  <br/>
+  <img
+    src="https://raw.githubusercontent.com/PrimoPan/PrimoPan/main/assets/metrics.svg"
+    alt="GitHub Metrics" />
+</details>
 ---
 
 ## Contact
@@ -53,5 +59,4 @@ Building interactive systems that are **readable**, **repeatable**, and **shippa
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=PrimoPan&style=flat-square" alt="profile views" />
 </p>
--->
 <!-- Optional: 如果你觉得还想更短，把 Contact 两行也删了都行 -->
