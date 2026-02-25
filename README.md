@@ -42,6 +42,7 @@ Building interactive systems that are **readable**, **repeatable**, and **shippa
     alt="GitHub Activity Graph" />
 </p>
 
+
 ---
 
 ## Contact
@@ -49,4 +50,8 @@ Building interactive systems that are **readable**, **repeatable**, and **shippa
 - Website: https://primopan.github.io/about
 - Email: dpan750@connect.hkust-gz.edu.cn
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PrimoPan&style=flat-square" alt="profile views" />
+</p>
+-->
 <!-- Optional: 如果你觉得还想更短，把 Contact 两行也删了都行 -->
