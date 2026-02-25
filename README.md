@@ -15,14 +15,10 @@ Building interactive systems that are **readable**, **repeatable**, and **shippa
 
 ## Live GitHub stats (public)
 
-<!-- Summary Cards: stats + "most commit language" (替代 Top Languages) -->
 <p align="left">
-  <img height="165"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrimoPan&theme=github_dark"
-    alt="GitHub Stats" />
-  <img height="165"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrimoPan&theme=github_dark"
-    alt="Most Commit Language" />
+  <img
+    src="https://raw.githubusercontent.com/PrimoPan/PrimoPan/output/snake.svg"
+    alt="Contribution Snake" />
 </p>
 
 <!-- Streak -->
