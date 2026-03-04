@@ -11,23 +11,20 @@ TypeScript · Node.js · React · React Native · Lynx · UE5 (C++ / Blueprint)
 ## GitHub Stats
 
 <p align="center">
-  <img height="170em"
-       src="https://github-readme-stats-wine-beta-45.vercel.app/api?username=primopan&show_icons=true&include_all_commits=true&count_private=true&hide=html,css,jupyter%20notebook" />
-
-  <img height="170em"
-       src="https://github-readme-stats-wine-beta-45.vercel.app/api/top-langs/?username=primopan&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook" />
+  <img height="165em"
+       src="https://github-readme-stats-wine-beta-45.vercel.app/api?username=primopan&show_icons=true&include_all_commits=true&count_private=true&hide=html,css,jupyter%20notebook&theme=transparent" />
+  <img height="165em"
+       src="https://github-readme-stats-wine-beta-45.vercel.app/api/top-langs/?username=primopan&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook&theme=transparent" />
 </p>
 
 <p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com/?user=PrimoPan&hide_border=true" />
+  <img height="165em"
+       src="https://streak-stats.demolab.com/?user=PrimoPan&hide_border=true&theme=transparent" />
 </p>
 
----
-
-## Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrimoPan&hide_border=true" />
+  <img
+       src="https://github-readme-activity-graph.vercel.app/graph?username=PrimoPan&hide_border=true&theme=github-dark" />
 </p>
 
 ---
