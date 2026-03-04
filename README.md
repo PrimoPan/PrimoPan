@@ -1,6 +1,6 @@
 # PrimoPan
 
-HK/CN · HKUST  
+HK/CN · HKUST Mphil
 
 HCI Researcher in Well-Being, Education, Music and Cultural Heritage.
 
