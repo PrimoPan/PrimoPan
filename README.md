@@ -1,54 +1,40 @@
-<!-- PrimoPan profile README (public-data dynamic cards) -->
-<!-- Notes:
-- GitHub Profile README 不能跑 JS；“实时”只能靠外部服务按需生成 SVG 图片。
-- 我把 github-readme-stats 那对（Stats/Top Langs）换成 github-profile-summary-cards，避免你截图里那种裂图。
--->
-
 # PrimoPan
 
 HK/CN · HKUST  
 Building interactive systems that are **readable**, **repeatable**, and **shippable**.
 
-**Stack:** TypeScript / Node.js / React / React Native/ Lynx · UE5 (C++/Blueprint)
+**Stack:**  
+TypeScript · Node.js · React · React Native · Lynx · UE5 (C++ / Blueprint)
 
 ---
 
-
-## Live GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-wine-beta-45.vercel.app/api?username=primopan&show_icons=true&hide=html,css&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-wine-beta-45.vercel.app/api/top-langs/?username=primopan&layout=compact&hide=html,css" />
+  <img height="170em" src="https://github-readme-stats-wine-beta-45.vercel.app/api?username=primopan&show_icons=true&include_all_commits=true&count_private=true&hide=html,css" />
+  <img height="170em" src="https://github-readme-stats-wine-beta-45.vercel.app/api/top-langs/?username=primopan&layout=compact&hide=html,css" />
 </p>
 
-<!-- Streak -->
-<p align="left">
-  <img
-    src="https://streak-stats.demolab.com/?user=PrimoPan&hide_border=true"
-    alt="GitHub Streak" />
+<p align="center">
+  <img height="170em" src="https://streak-stats.demolab.com/?user=PrimoPan&hide_border=true" />
 </p>
 
 ---
 
-## Activity graph (last ~31 days)
+## Activity
 
-<p align="left">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PrimoPan&hide_border=true"
-    alt="GitHub Activity Graph" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrimoPan&hide_border=true" />
 </p>
-
 
 ---
 
 ## Contact
-- GitHub: Issues / Discussions on relevant repos
-- Website: https://primopan.github.io/about
-- Email: dpan750@connect.hkust-gz.edu.cn
 
+- 🌐 Website: https://primopan.github.io/about  
+- 📧 Email: dpan750@connect.hkust-gz.edu.cn  
+- 💬 GitHub: Issues / Discussions on relevant repos  
 
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=PrimoPan&style=flat-square" alt="profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrimoPan&style=flat-square" />
 </p>
-<!-- Optional: 如果你觉得还想更短，把 Contact 两行也删了都行 -->
