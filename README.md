@@ -1,6 +1,8 @@
 # PrimoPan
 
 HK/CN · HKUST  
+HCI Researcher in Well-Being, Education, Music and Cultural Heritage.
+Google Scholar: https://scholar.google.com/citations?user=hEC2O8YAAAAJ&hl=zh-TW
 Building interactive systems that are **readable**, **repeatable**, and **shippable**.
 
 **Stack:**  
