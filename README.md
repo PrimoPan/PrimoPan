@@ -15,7 +15,9 @@ Building interactive systems that are **readable**, **repeatable**, and **shippa
 
 ## Live GitHub stats (public)
 
+## Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primopan&layout=compact&langs_count=8&theme=tokyonight)
 
 <!-- Streak -->
 <p align="left">
