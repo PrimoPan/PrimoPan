@@ -12,7 +12,7 @@ TypeScript · Node.js · React · React Native · Lynx · UE5 (C++ / Blueprint)
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats-wine-beta-45.vercel.app/api?username=primopan&show_icons=true&include_all_commits=true&count_private=true&hide=html,css" />
-  <img height="170em" src="https://github-readme-stats-wine-beta-45.vercel.app/api/top-langs/?username=primopan&layout=compact&hide=html,css" />
+[  <img height="170em" src="https://github-readme-stats-wine-beta-45.vercel.app/api/top-langs/?username=primopan&layout=compact&hide=html,css" />](https://github-readme-stats-wine-beta-45.vercel.app/api/top-langs/?username=primopan&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook)
 </p>
 
 <p align="center">
