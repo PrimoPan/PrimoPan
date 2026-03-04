@@ -4,7 +4,6 @@ HK/CN · HKUST
 
 HCI Researcher in Well-Being, Education, Music and Cultural Heritage.
 
-Google Scholar: https://scholar.google.com/citations?user=hEC2O8YAAAAJ&hl=zh-TW
 
 Building interactive systems that are **readable**, **repeatable**, and **shippable**.
 
@@ -36,7 +35,8 @@ TypeScript · Node.js · React · React Native · Lynx · UE5 (C++ / Blueprint)
 
 ## Contact
 
-- 🌐 Website: https://primopan.github.io/about  
+- 🌐 Website: https://primopan.github.io/about
+- [Google Scholar](https://scholar.google.com/citations?user=hEC2O8YAAAAJ&hl=zh-TW)
 - 📧 Email: dpan750@connect.hkust-gz.edu.cn  
 - 💬 GitHub: Issues / Discussions on relevant repos  
 
