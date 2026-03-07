@@ -8,7 +8,7 @@ HCI Researcher in Well-Being, Education, Music and Cultural Heritage.
 Building interactive systems that are **readable**, **repeatable**, and **shippable**.
 
 **Stack:**  
-TypeScript · Node.js · React · React Native · Lynx · UE5 (C++ / Blueprint)
+TypeScript · Node.js · React · React Native · Lynx · UE5 · C++
 
 ---
 
